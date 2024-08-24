@@ -14,15 +14,15 @@ FREE TOOLS
 ”° _CLONE FULL OK IDZ_
 
 
-<h2- `pkg update`
-<h2- `pkg upgrade`
-<h2- `pkg install git`
-<h2- `pkg install python`
-<h2- `pip install requests`
-<h2- `pip install mechanize`
-<h2- `pip install bs4`
-<h2- `rm -rf MHB`
-<h2- `git clone --depth=1 https://github.com/MHB-TOOL/MHB`
+- `<h2pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pip install requests`
+- `pip install mechanize`
+- `pip install bs4`
+- `rm -rf MHB`
+- `git clone --depth=1 https://github.com/MHB-TOOL/MHB`
 - `cd MHB`
 - `python MHB.py`
 
