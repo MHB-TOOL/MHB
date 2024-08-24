@@ -28,5 +28,5 @@ FREE TOOLS
 
 
 
- ___This Tools is Paid___</br>
+ ___This Tools is FREE___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MHB-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923273988991)
