@@ -14,7 +14,7 @@ FREE TOOLS
 ”° _CLONE FULL OK IDZ_
 
 
-- `<h2pkg update`
+- `pkg update`
 - `pkg upgrade`
 - `pkg install git`
 - `pkg install python`
