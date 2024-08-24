@@ -22,7 +22,7 @@ FREE TOOLS
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf MHB`
-- `git clone --depth=1 https://github.com/MHB-TOOL/MHB
+- `git clone --depth=1 https://github.com/MHB-TOOL/MHB`
 - `cd MHB`
 - `python MHB.py`
 
