@@ -4,7 +4,7 @@ try:
  import requests
 except:os.system("pip uninstall requests -y;pip install requests")
 
-print('[*] Loeading Chacking Update.)
+print('[*] Loeading Chacking Update.')
 os.system('git pull --quiet 2>/dev/null')
 bit = platform.architecture()[0]
 if bit == '64bit':
