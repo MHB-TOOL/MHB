@@ -13,7 +13,7 @@
 
 ## <b>installation</b>
 
-”° _CLONE FULL OK IDZ_
+”° UPDATE VERSION-41_
 
 
 - `pkg update`
